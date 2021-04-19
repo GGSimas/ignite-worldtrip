@@ -1,0 +1,340 @@
+{
+  "continentes": [
+    {
+       "id": 1, 
+       "name": "África",
+       "slug": "Africa", 
+       "description": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.", 
+       "paises": "54", 
+       "cidades100": [
+         {
+           "id": 100,
+           "cidade": "Cairo",
+           "pais": "Egito",
+           "imagem": "https://images.unsplash.com/photo-1583248793469-0b3360f27876?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+         },
+         {
+          "id": 101,
+          "cidade": "Joanesburgo",
+          "pais": "Africa do Sul",
+          "imagem": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 102,
+          "cidade": "Hurgada",
+          "pais": "Egito",
+          "imagem": "https://images.unsplash.com/photo-1601196338693-2d103fcc2d61?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 103,
+          "cidade": "Marraquexe",
+          "pais": "Marrocos",
+          "imagem": "https://images.unsplash.com/photo-1561642769-1bca263542e0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        }
+
+       ]
+    },
+    { 
+      "id": 2, 
+      "name": "Ásia", 
+      "slug": "Asia", 
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.", 
+      "paises":"50", 
+      "cidades100": [
+        {
+          "id": 200,
+          "cidade": "Hong Kong",
+          "pais": "China",
+          "imagem": "https://images.unsplash.com/photo-1592880486029-da96bcf1c56f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 201,
+          "cidade": "Bangkok",
+          "pais": "China",
+          "imagem": "https://images.unsplash.com/photo-1531169628939-e84f860fa5d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 202,
+          "cidade": "Singapura",
+          "pais": "Singapura",
+          "imagem": "https://images.unsplash.com/photo-1581769157364-bf5e8d9d3dd4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 203,
+          "cidade": "Macau",
+          "pais": "China",
+          "imagem": "https://images.unsplash.com/photo-1555331446-0ff637678740?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 204,
+          "cidade": "Dubai",
+          "pais": "Emirados Arabes Unidos",
+          "imagem": "https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250  &q=80"
+        },
+        {
+          "id": 205,
+          "cidade": "Kuala Lumpur",
+          "pais": "Malasia",
+          "imagem": "https://images.unsplash.com/photo-1532745609869-16df0d287f3b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 206,
+          "cidade": "Shenzhen",
+          "pais": "China",
+          "imagem": "https://images.unsplash.com/photo-1522614288668-a697127e9b21?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 207,
+          "cidade": "Phuket",
+          "pais": "Tailandia",
+          "imagem":"https://images.unsplash.com/photo-1579683670728-96c9abc7a088?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 208,
+          "cidade": "Déli",
+          "pais": "India",
+          "imagem":"https://images.unsplash.com/photo-1542361641859-c26bb3571dd7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 209,
+          "cidade": "Tóquio",
+          "pais": "Japão",
+          "imagem":"https://images.unsplash.com/photo-1615212393766-1501e39f2e8b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 210,
+          "cidade": "Taipei",
+          "pais": "Taiwan",
+          "imagem":"https://images.unsplash.com/photo-1573111509920-bb67bc9c34f8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 211,
+          "cidade": "Guangzhou",
+          "pais": "China",
+          "imagem": "https://images.unsplash.com/photo-1563090162-6b4c2a20d658?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 212,
+          "cidade": "Mumbai",
+          "pais": "India",
+          "imagem":"https://images.unsplash.com/photo-1573132223210-d65883b944aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        }
+      ] 
+    },
+    { 
+      "id": 3, 
+      "name": "América do Norte", 
+      "slug": "AmericaNorte", 
+      "description": "América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas.", 
+      "paises":"3", 
+      "cidades100": [
+        {
+          "id": 300,
+          "cidade": "Nova York",
+          "pais": "Estados Unidos",
+          "imagem":"https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 301,
+          "cidade": "Miami",
+          "pais": "Estados Unidos",
+          "imagem":"https://images.unsplash.com/photo-1551989858-b296d6bf011a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 302,
+          "cidade": "Los Angeles",
+          "pais": "Estados Unidos",
+          "imagem":"https://images.unsplash.com/photo-1544413660-299165566b1d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 303,
+          "cidade": "Las Vegas",
+          "pais": "Estados Unidos",
+          "imagem":"https://images.unsplash.com/photo-1543321269-9d86d3680e1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 304,
+          "cidade": "Cancun",
+          "pais": "México",
+          "imagem":"https://images.unsplash.com/photo-1552074284-5e88ef1aef18?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 305,
+          "cidade": "Orlando",
+          "pais": "Estados Unidos",
+          "imagem":"https://images.unsplash.com/photo-1592179437037-a2154597708d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 306,
+          "cidade": "Toronto",
+          "pais": "Canada",
+          "imagem":"https://images.unsplash.com/photo-1503206557829-9a9979ad1227?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 307,
+          "cidade": "São Francisco",
+          "pais": "Estados Unidos",
+          "imagem":"https://images.unsplash.com/photo-1558360477-ad1c40281247?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 308,
+          "cidade": "Honolulu",
+          "pais": "Estados Unidos",
+          "imagem":"https://images.unsplash.com/photo-1524565308556-b777381b2f73?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 309,
+          "cidade": "Cidade do México",
+          "pais": "México",
+          "imagem":"https://images.unsplash.com/photo-1518659526054-190340b32735?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        }
+      ] 
+    },
+    { 
+      "id": 4, 
+      "name": "América do Sul", 
+      "slug": "AmericaSul", 
+      "description": "América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas.", 
+      "paises":"12", 
+      "cidades100": [
+          {
+            "id": 400,
+            "cidade": "Buenos Aires",
+            "pais": "Argentina",
+            "imagem":"https://images.unsplash.com/photo-1589909202802-8f4aadce1849?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+          },
+          {
+            "id": 401,
+            "cidade": "Lima",
+            "pais": "Peru",
+            "imagem":"https://images.unsplash.com/photo-1576172823234-40bada87baf8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+          },
+          {
+            "id": 402,
+            "cidade": "Santiago",
+            "pais": "Chile",
+            "imagem":"https://images.unsplash.com/photo-1586980217877-88d1a8a36b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+          },
+          {
+            "id": 403,
+            "cidade": "Rio de Janeiro",
+            "pais": "Brasil",
+            "imagem": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+          }
+      ]
+    },
+    { 
+      "id": 5, 
+      "name": "Europa", 
+      "slug": "Europa", 
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.", 
+      "paises":"50", 
+      "cidades100": [
+        {
+          "id": 500,
+          "cidade": "Londres",
+          "pais": "Inglaterra",
+          "imagem":"https://images.unsplash.com/photo-1595073689920-89693c646e54?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 501,
+          "cidade": "Paris",
+          "pais": "França",
+          "imagem":"https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 502,
+          "cidade": "Istambul",
+          "pais": "Turquia",
+          "imagem":"https://images.unsplash.com/photo-1613557029019-e536807463dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 503,
+          "cidade": "Roma",
+          "pais": "Italia",
+          "imagem":"https://images.unsplash.com/photo-1512064444180-54b51a475aa7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 504,
+          "cidade": "Amsterdã",
+          "pais": "Holanda",
+          "imagem": "https://images.unsplash.com/photo-1579870700381-7f87c8194be6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 505,
+          "cidade": "Barcelona",
+          "pais": "Espanha",
+          "imagem":"https://images.unsplash.com/photo-1564221710304-0b37c8b9d729?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 506,
+          "cidade": "Milão",
+          "pais": "Italia",
+          "imagem":"https://images.unsplash.com/photo-1567760855784-589f09ed5dc6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 507,
+          "cidade": "Berlim",
+          "pais": "Alemanhã",
+          "imagem":"https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 508,
+          "cidade": "Veneza",
+          "pais": "Italia",
+          "imagem":"https://images.unsplash.com/photo-1601517646882-97962dc3da18?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 508,
+          "cidade": "Madri",
+          "pais": "Espanha",
+          "imagem":"https://images.unsplash.com/photo-1605136260265-6752c5441a47?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        }
+      ]},
+    { 
+      "id": 6, 
+      "name": "Oceânia", 
+      "slug": "Oceania", 
+      "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico. O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville.", 
+      "paises":"16", 
+      "cidades100": [
+        {
+          "id": 600,
+          "cidade": "Sydney",
+          "pais": "Austrália",
+          "imagem":"https://images.unsplash.com/photo-1523428096881-5bd79d043006?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 601,
+          "cidade": "Melbourne",
+          "pais": "Austrália",
+          "imagem":"https://images.unsplash.com/photo-1505642257289-9f2d7dd73641?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 602,
+          "cidade": "Auckland",
+          "pais": "Nova Zelandia",
+          "imagem":"https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 603,
+          "cidade": "Dempassar",
+          "pais": "Indonesia",
+          "imagem":"https://images.unsplash.com/photo-1464184644983-efe0b93442db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 604,
+          "cidade": "Jakarta",
+          "pais": "Indonesia",
+          "imagem": "https://images.unsplash.com/photo-1575864716793-49a09717eb03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=250&q=80"
+        },
+        {
+          "id": 605,
+          "cidade": "Batam",
+          "pais": "Indonesia",
+          "imagem":"https://images.unsplash.com/photo-1572246852367-ac4cd26b07dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=250&q=80"
+        }
+      ]
+    }
+  ]
+}
